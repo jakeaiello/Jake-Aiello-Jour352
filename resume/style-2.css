@@ -1,0 +1,44 @@
+body {
+  font-family: 'Open Sans', arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+  font-weight: 400;}
+/*name*/
+h1 {
+  font-size: 3em;
+  color:#33485e;
+  text-transform: uppercase;
+  text-align: center;
+}
+/*photo*/
+/*title/position*/
+strong{
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color:#33485e;
+}
+/*education,experience,skills*/
+h2{
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background: #33485e;
+  color: white;
+  font-weight: 400;
+}
+/*job titles*/
+h3{font-weight: 600;
+  font-size: 1.5em;
+}
+/*job organization*/
+h4{font-weight: 400;
+  font-size: 1.5em;
+}
+/*job dates*/
+h5{font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+  /*specific skills*/
+}
+ul{
+  font-size: 1em;
+}
