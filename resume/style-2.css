@@ -3,6 +3,12 @@ body {
   font-size: 1em;
   color: #444;
   font-weight: 400;}
+#container{
+  width: 100%;
+  max-width: 1200px;
+  margin:0 auto;
+  padding-bottom: 50px;
+}
 /*name*/
 #name {
   font-size: 3em;
@@ -16,10 +22,16 @@ body {
 }
 /*photo*/
 /*title/position*/
-strong{
+#title{
   text-transform: uppercase;
   font-size: 1.5em;
   color:#33485e;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-left:0px;
+  margin-bottom: 0px;
 }
 /*education,experience,skills*/
 .sectionheader {
@@ -30,23 +42,66 @@ strong{
   font-weight: 400;
   margin-bottom: 10px;
   margin-top: 20px;
+  margin-right: 0px;
+  margin-left: 0px;
   width: 70%;
-  min-width: 300px
+  min-width: 300px;
+  font-style: normal;
 }
 /*job titles*/
-h3{font-weight: 600;
+.jobtitle{font-weight: 600;
   font-size: 1.5em;
+  font-style: normal;
 }
 /*job organization*/
-h4{font-weight: 400;
-  font-size: 1.5em;
+.organization{font-weight: 400;
+  font-size: 1.25em;
+  font-style: normal;
 }
 /*job dates*/
-h5{font-weight: 400;
+.date{font-weight: 400;
   font-size: 1em;
   font-style: italic;
-  /*specific skills*/
+  margin-top: 2px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
 }
+  /*specific skills*/
 ul{
   font-size: 1em;
 }
+.description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-style: normal;
+}
+.menu{
+  margin: 0px;
+  padding: 0px;
+  text-align:center;
+
+}
+#degrees{
+margin-top: 5px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+font-style: normal;
+}
+#do{
+margin-top: 5px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+font-style: normal;
+}
+.top{
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+#photo{text-align: center;
