@@ -4,11 +4,15 @@ body {
   color: #444;
   font-weight: 400;}
 /*name*/
-h1 {
+#name {
   font-size: 3em;
   color:#33485e;
   text-transform: uppercase;
   text-align: center;
+  border-bottom: 1px solid #33485e;
+  width:60%;
+  min-width: 300px;
+  margin:0 auto;
 }
 /*photo*/
 /*title/position*/
@@ -18,12 +22,16 @@ strong{
   color:#33485e;
 }
 /*education,experience,skills*/
-h2{
+.sectionheader {
   font-size: 1.5em;
   text-transform: uppercase;
   background: #33485e;
   color: white;
   font-weight: 400;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  width: 70%;
+  min-width: 300px
 }
 /*job titles*/
 h3{font-weight: 600;
