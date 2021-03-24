@@ -1,0 +1,47 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+#Headline{
+  color: orange;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+#text{
+  font: georgia;
+  font-size: 13px;
+}
+#caption{
+  width: 860px;
+  font-size: 16px
+}
+#credit{
+  font-style: italic;
+  font-size: 10px;
+}
+#photoheadline{
+  font-style: georgia;
+  font-weight: bold;
+  font-size: 16px
+}
+blockquote{
+  font-size: 20px;
+  font-weight: bold;
+  font: georgia;
+}
+#more{
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+#links{
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
