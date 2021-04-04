@@ -1,0 +1,75 @@
+#menu{
+float: none;
+background-color: black;
+padding: 10px;
+word-spacing: 20px;
+}
+#photo{
+float: none;
+}
+#first{
+  font-style: italic;
+  font-size: 2em;
+  color: #8D84BF
+}
+.container-sm{
+  margin: auto;
+}
+.column-left{
+  text-align: center;
+  width:33%;
+    padding: 10px;
+}
+.column-middle{
+  text-align: center;
+  width:33%;
+    padding: 10px;
+}
+.column-right{
+  text-align: center;
+  width:33%;
+    padding: 10px;
+}
+.jobtitle{
+  font-style: italic;
+  font-weight: bolder;
+  font-family: Tahoma,sans-serif,arial;
+  text-decoration: underline;
+  font-size: 26px
+}
+.sectionheader{
+  font-size: 3em;
+  font-weight: bolder;
+  font-style: italic;
+}
+.organization{
+  font-size: 24px;
+  color: white;
+  padding-bottom: 5px;
+}
+.description{
+font-size:16px;
+}
+.date{
+  font-size: 18px;
+  padding-bottom: 3px;
+  font-style: italic;
+}
+.hs{
+  background-color: black;
+  color:white;
+  font-size: 20px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
+.college{
+  background-color: black;
+  color:white;
+  font-size:20px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
