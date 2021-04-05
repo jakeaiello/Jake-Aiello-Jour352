@@ -18,21 +18,14 @@ float: none;
 .container-sm{
   margin: auto;
 }
-.column-left{
+.column-md-4{
   text-align: center;
   width:33%;
     padding: 10px;
 }
-.column-middle{
-  text-align: center;
-  width:33%;
-    padding: 10px;
-}
-.column-right{
-  text-align: center;
-  width:33%;
-    padding: 10px;
-}
+
+
+
 .jobtitle{
   font-style: italic;
   font-weight: bolder;
