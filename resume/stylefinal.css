@@ -1,8 +1,11 @@
-#menu{
-float: none;
-background-color: black;
-padding: 10px;
-word-spacing: 20px;
+.footer{
+  position: fixed;
+  padding-top: 10px;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ background-color:black;
+ text-align: center;
 }
 #photo{
 float: none;
