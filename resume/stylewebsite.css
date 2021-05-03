@@ -1,6 +1,7 @@
 figcaption{
   font-size: 12px;
   font-style: italic;
+  text-align: center;
 }
 .info{
   width: 60%
@@ -10,7 +11,7 @@ figcaption{
   height: 30%;
 }
 blockquote{
-  font-size: 16;
+  font-size: 20px;
   color: red;
   font-style: italic;
   font-weight: bolder;
@@ -26,5 +27,50 @@ p{
   font-style: italic;
   font-weight: bold;
   font-family: 'Lato', sans-serif;
-  font-size: 13;
+  font-size: 22px;
+  color: red;
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.headline{
+  font-size: 24px;
+  font-style: italic;
+  text-transform: uppercase;
+  font-family: 'Lato', sans-serif;
+  color: red;
+  font-weight: bolder;
+}
+.info{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+.infotwo{
+width: 58.1%;
+display: block;
+margin-left: auto;
+margin-right: auto;}
+}
+.infothree{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+footer{
+ width: 100%;
+ background-color:black;
+ text-align: center;
+ color:red;
+ font-weight: bolder;
+}
+.intro{
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Lato', sans-serif;
 }
