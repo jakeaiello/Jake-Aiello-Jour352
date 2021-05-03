@@ -1,0 +1,30 @@
+figcaption{
+  font-size: 12px;
+  font-style: italic;
+}
+.info{
+  width: 60%
+}
+.info2{
+  width: 30%;
+  height: 30%;
+}
+blockquote{
+  font-size: 16;
+  color: red;
+  font-style: italic;
+  font-weight: bolder;
+}
+p{
+  font-size: 12;
+  font-family: 'Lato', sans-serif;
+}
+.container-sm{
+  align-items: center;
+}
+.outro{
+  font-style: italic;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+  font-size: 13;
+}
